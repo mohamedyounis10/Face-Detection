@@ -1,12 +1,3 @@
-To incorporate two places to show images in your **README** file—one for the presentation slide and one for example outputs—we can organize the content as follows:
-
-1. **First Image (Presentation Slide)**: This section will introduce the project with a visual example. It should be placed at the beginning of the README file, showcasing the purpose and results.
-2. **Second Image (Example Outputs)**: This section will display various outputs after the script is run, such as masks, edges, and final face detection results.
-
-Here’s how the **README** can be structured with these changes:
-
----
-
 # Face Detection Project
 
 ## Overview
