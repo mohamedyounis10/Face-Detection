@@ -1,4 +1,4 @@
-# Face Detection Project
+## Face Detection Project
 
 ## Overview
 This project implements a face detection system using custom image processing techniques. The goal is to detect faces in images by processing pixel-level data and applying various image manipulation methods. Key techniques include:
@@ -38,6 +38,7 @@ After running the face detection script, various intermediate results will be pr
   The original image with faces highlighted by bounding boxes.
 
   ![Original Image with Detected Faces](https://github.com/user-attachments/assets/1e5f2ab8-a063-4690-8f8a-e8e15e91a6f4)
+
 ---
 
 ## Requirements
@@ -153,5 +154,11 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 Special thanks to the open-source contributors and the developers of Python libraries (e.g., OpenCV, NumPy, Scikit-image, Matplotlib) who made this project possible. Your contributions are greatly appreciated!
+
+---
+
+## Additional Resources
+
+For more detailed information on the implementation and results of this project, please refer to the [project report](https://drive.google.com/file/d/17QnKxqzXBB2fWX2wN9wzlal0dphwhEFD/view?usp=drive_link).
 
 ---
